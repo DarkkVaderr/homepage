@@ -43,7 +43,7 @@ nav ul li a {
 
 .landing {
     height: 100vh;
-    background-image: url(images/OhSo/prdctheader.jpg);
+    background-image: url(Images/OhSo/prdctheader.jpg);
     background-size: cover;
     background-position: top;
     display: flex;
